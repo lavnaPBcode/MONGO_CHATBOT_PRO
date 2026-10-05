@@ -167,4 +167,5 @@ embedding model, and real LLM calls. Verify those once on your own setup: run `s
 - PDFs and binary fields are ignored; only text stored in fields is indexed.
 - The chat page and `/api/ask/` have no login. Add authentication before exposing them. `/api/ingest/` already requires `INGEST_TOKEN` outside DEBUG.
 #   M O N G O _ C H A T B O T _ P R O  
+ #   M O N G O _ C H A T B O T _ P R O  
  
